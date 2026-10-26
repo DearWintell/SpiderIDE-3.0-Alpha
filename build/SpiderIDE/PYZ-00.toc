@@ -1,0 +1,999 @@
+('G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\build\\SpiderIDE\\PYZ-00.pyz',
+ [('PyQt6',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.designer_source',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\designer_source.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.lupdate',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\lupdate.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.pylupdate',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\pylupdate.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.python_source',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\python_source.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.source_file',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\source_file.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.translation_file',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\translation_file.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.translations',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\translations.py',
+   'PYMODULE'),
+  ('PyQt6.lupdate.user',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\lupdate\\user.py',
+   'PYMODULE'),
+  ('PyQt6.uic',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.as_string',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\as_string.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.compiler',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.indenter',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.misc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.proxy_metaclass',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.qobjectcreator',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.qtproxies',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Loader',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Loader.loader',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Loader.qobjectcreator',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt6.uic.compile_ui',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\compile_ui.py',
+   'PYMODULE'),
+  ('PyQt6.uic.enum_map',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\enum_map.py',
+   'PYMODULE'),
+  ('PyQt6.uic.exceptions',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt6.uic.icon_cache',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('PyQt6.uic.load_ui',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\load_ui.py',
+   'PYMODULE'),
+  ('PyQt6.uic.objcreator',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt6.uic.properties',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt6.uic.pyuic',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\pyuic.py',
+   'PYMODULE'),
+  ('PyQt6.uic.ui_file',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\ui_file.py',
+   'PYMODULE'),
+  ('PyQt6.uic.uiparser',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyQt6\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.interpreter',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\futures\\interpreter.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.interpreters',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\interpreters\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._crossinterp',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\interpreters\\_crossinterp.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._queues',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\concurrent\\interpreters\\_queues.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes._layout',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ctypes\\_layout.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._ntuples',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\psutil\\_ntuples.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Roaming\\Python\\Python314\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\socket.py',
+   'PYMODULE'),
+  ('spider_ide',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\__init__.py',
+   'PYMODULE'),
+  ('spider_ide.core',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\core\\__init__.py',
+   'PYMODULE'),
+  ('spider_ide.core.code_folding',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\core\\code_folding.py',
+   'PYMODULE'),
+  ('spider_ide.core.config',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\core\\config.py',
+   'PYMODULE'),
+  ('spider_ide.core.editor',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\core\\editor.py',
+   'PYMODULE'),
+  ('spider_ide.core.runner',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\core\\runner.py',
+   'PYMODULE'),
+  ('spider_ide.core.syntax',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\core\\syntax.py',
+   'PYMODULE'),
+  ('spider_ide.main',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\main.py',
+   'PYMODULE'),
+  ('spider_ide.ui',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\__init__.py',
+   'PYMODULE'),
+  ('spider_ide.ui.console',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\console.py',
+   'PYMODULE'),
+  ('spider_ide.ui.dialogs',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\dialogs.py',
+   'PYMODULE'),
+  ('spider_ide.ui.file_open_dialog',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\file_open_dialog.py',
+   'PYMODULE'),
+  ('spider_ide.ui.help_dialog',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\help_dialog.py',
+   'PYMODULE'),
+  ('spider_ide.ui.main_window',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\main_window.py',
+   'PYMODULE'),
+  ('spider_ide.ui.project_search',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\project_search.py',
+   'PYMODULE'),
+  ('spider_ide.ui.settings_dialog',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\settings_dialog.py',
+   'PYMODULE'),
+  ('spider_ide.ui.sidebar',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\sidebar.py',
+   'PYMODULE'),
+  ('spider_ide.ui.splash_screen',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\splash_screen.py',
+   'PYMODULE'),
+  ('spider_ide.ui.style_kit',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\style_kit.py',
+   'PYMODULE'),
+  ('spider_ide.ui.tabs',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\tabs.py',
+   'PYMODULE'),
+  ('spider_ide.ui.terminal',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\terminal.py',
+   'PYMODULE'),
+  ('spider_ide.ui.welcome_dialog',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_ide\\ui\\welcome_dialog.py',
+   'PYMODULE'),
+  ('spider_runtime',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\__init__.py',
+   'PYMODULE'),
+  ('spider_runtime.errors',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\errors.py',
+   'PYMODULE'),
+  ('spider_runtime.executor',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\executor.py',
+   'PYMODULE'),
+  ('spider_runtime.parser',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\parser.py',
+   'PYMODULE'),
+  ('spider_runtime.spider',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\spider.py',
+   'PYMODULE'),
+  ('spider_runtime.values',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\values.py',
+   'PYMODULE'),
+  ('spider_runtime.vars',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\vars.py',
+   'PYMODULE'),
+  ('spider_runtime.widgets',
+   'G:\\dev\\dev\\SpiderIDE_3.0-Aplha\\SpiderIDE_1.2\\spider_runtime\\widgets.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Даниил '
+   'Макеев\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\zipimport.py',
+   'PYMODULE')])
